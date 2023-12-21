@@ -1,0 +1,3 @@
+pip install flask scikit-learn
+pip install flasgger flask-cors
+pip install python-dateutil
